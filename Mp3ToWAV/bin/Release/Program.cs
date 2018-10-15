@@ -1,16 +1,21 @@
-﻿using System;
+﻿using Notifications;
+using System;
 using System.Collections.Generic;
 using NLayer.NAudioSupport;
 using NAudio.Wave;
 using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
-
+using System.Diagnostics;
 
 namespace Mp3ToWAV
 {
     class Program
     {
+		static int numItems = 0;
+        //TODO
+		static bool errored = false;
+		public const bool notificationsEnabled = true;
         public static bool MultiThreadedMode = true;
         public static int DebugLevel = 1; //0 = errors only, 1 = errors and info, 2 = verbose
         public static int Processors = Environment.ProcessorCount;
@@ -39,15 +44,18 @@ namespace Mp3ToWAV
                 foreach (var filepath in Directory.GetFiles(dirPart, filePart))
                     fileList.Add(filepath);
             }
-
+			numItems = fileList.Count;
             return fileList.ToArray();
         }
 
         public static void Main(string[] args)
         {
+			Stopwatch stopwatch = Stopwatch.StartNew();
+
+
             if (MultiThreadedMode && DebugLevel == 2)
             {
-                Console.WriteLine("Found " + Processors + " CPUs");
+                Console.WriteLine("Found " + Processors + " CPU cores.");
             }
             Program prog = new Program();
             if (args.Length < 1)
@@ -66,6 +74,7 @@ namespace Mp3ToWAV
 
 					if (!(Path.GetExtension(file) == ".mp3"))
 					{
+						errored = true;
 						Console.WriteLine("File is not an mp3 file: " + file);
 						continue;
 					}
@@ -73,6 +82,7 @@ namespace Mp3ToWAV
                     //goes through files sequentially
                     if (!MultiThreadedMode)
                     {
+
                         if (File.Exists(file))
                         {
                             if (DebugLevel != 0)
@@ -88,12 +98,14 @@ namespace Mp3ToWAV
 							}
 							catch (Exception)
 							{
+								errored = true;
 								Console.WriteLine("Error reading mp3 file: " + file + ". File is probably not a valid mp3.");
 							}
                             
                         }
                         else
                         {
+							errored = true;
                             Console.WriteLine("Could not find file " + file);
                         }
                     }
@@ -131,9 +143,18 @@ namespace Mp3ToWAV
 
                     item.Wait();
                 }
+				if (notificationsEnabled && !errored)
+                {
+                    Notification finishedNotification = new Notification();
+                    finishedNotification.Summary = "Mp3 conversion finished.";
+					finishedNotification.Body = "Processed " + numItems + " files in " + stopwatch.ElapsedMilliseconds / 1000 + " seconds";
+					finishedNotification.Show();
+
+                }
 
 
             }
+
 
         }
 
@@ -153,6 +174,7 @@ namespace Mp3ToWAV
         {
 			if (!(Path.GetExtension(file) == ".mp3"))
             {
+				errored = true;
                 Console.WriteLine("File is not an mp3 file: " + file);
 				RunningThreads--;
 				return;
@@ -172,12 +194,14 @@ namespace Mp3ToWAV
 				}
 				catch (Exception)
                 {
+					errored = true;
                     Console.WriteLine("Error reading mp3 file: " + file + ". File is probably not a valid mp3.");
                 }
                 
             }
             else
             {
+				errored = true;
                 Console.WriteLine("Could not find file " + file);
             }
 

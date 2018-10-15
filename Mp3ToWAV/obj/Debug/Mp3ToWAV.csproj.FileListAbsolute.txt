@@ -21,3 +21,5 @@ c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.exe
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.pdb
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/Program.cs
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/notify-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/notify-sharp.dll.config

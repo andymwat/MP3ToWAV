@@ -10,4 +10,4 @@ Simply drag all of the MP3 files you want to convert onto the Mp3ToWAV exe. It w
 Open the solution in Visual Studio and build it. Adding the DLLs as references may be needed. To pack all of the DLLs into one file, use ILMerge. I prefer ILMerge-GUI.
 
 ### Todo:
-* Better error handling. Right now, a lot of things can cause the program to crash in a messy way. Don't try giving it anything besides an MP3.
+* Add a progress bar of some sort.

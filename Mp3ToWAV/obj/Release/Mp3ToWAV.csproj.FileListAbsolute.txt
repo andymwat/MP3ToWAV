@@ -8,3 +8,5 @@
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.csproj.CopyComplete
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.exe
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.pdb
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/notify-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/notify-sharp.dll.config

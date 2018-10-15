@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A4D9EA84-ADE4-4323-9C14-A9056943DFBB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="158" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mp3ToWAV" expanded="True">
+            <Node name="Mp3ToWAV" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="NAudio, Version=1.8.4.0, Culture=neutral, processorArchitecture=MSIL" selected="True" />
+              </Node>
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mp3ToWAV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

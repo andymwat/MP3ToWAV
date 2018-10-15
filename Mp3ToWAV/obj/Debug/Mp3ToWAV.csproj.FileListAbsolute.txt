@@ -1,12 +1,23 @@
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\bin\Debug\Mp3ToWAV.exe.config
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\bin\Debug\Mp3ToWAV.exe
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\bin\Debug\Mp3ToWAV.pdb
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\bin\Debug\NAudio.dll
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\bin\Debug\NLayer.dll
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\bin\Debug\NAudio.xml
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\obj\Debug\Mp3ToWAV.csprojResolveAssemblyReference.cache
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\obj\Debug\Mp3ToWAV.csproj.CoreCompileInputs.cache
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\obj\Debug\Mp3ToWAV.csproj.CopyComplete
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\obj\Debug\Mp3ToWAV.exe
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\obj\Debug\Mp3ToWAV.pdb
-c:\users\andym\onedrive\documents\visual studio 2017\Projects\Mp3ToWAV\Mp3ToWAV\bin\Debug\NLayer.NAudioSupport.dll
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/bin/Debug/Mp3ToWAV.exe.config
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/bin/Debug/Mp3ToWAV.exe
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/bin/Debug/Mp3ToWAV.pdb
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/bin/Debug/NAudio.dll
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/bin/Debug/NLayer.dll
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/bin/Debug/NAudio.xml
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.csprojResolveAssemblyReference.cache
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.csproj.CoreCompileInputs.cache
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.csproj.CopyComplete
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.exe
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.pdb
+c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/bin/Debug/NLayer.NAudioSupport.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/Mp3ToWAV.exe.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/Mp3ToWAV.exe
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/Mp3ToWAV.pdb
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/NAudio.xml
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.csprojAssemblyReference.cache
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.exe.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.csproj.CopyComplete
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.exe
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Debug/Mp3ToWAV.pdb
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/Program.cs

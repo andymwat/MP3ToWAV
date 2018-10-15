@@ -1,0 +1,10 @@
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/Program.cs
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/Mp3ToWAV.exe.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/Mp3ToWAV.exe
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/Mp3ToWAV.pdb
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.csprojAssemblyReference.cache
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.exe.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.csproj.CopyComplete
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.exe
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.pdb

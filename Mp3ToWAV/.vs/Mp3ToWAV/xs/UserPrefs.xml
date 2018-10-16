@@ -1,8 +1,21 @@
 ﻿<Properties StartupConfiguration="{A4D9EA84-ADE4-4323-9C14-A9056943DFBB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="198" Column="78" />
+      <File FileName="Program.cs" Line="33" Column="49" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mp3ToWAV" expanded="True">
+            <Node name="Mp3ToWAV" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="atk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Mp3ToWAV PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

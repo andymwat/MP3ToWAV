@@ -30,7 +30,7 @@ namespace Mp3ToWAV
             {
 				if (!File.Exists(arg))
                 {
-                    Console.WriteLine(arg + " does not exist.");
+                    Console.WriteLine("File " + arg + " does not exist.");
                     continue;
                 }
                 var substitutedArg = Environment.ExpandEnvironmentVariables(arg);
@@ -143,7 +143,7 @@ namespace Mp3ToWAV
 
                     item.Wait();
                 }
-				if (notificationsEnabled && !errored)
+				if (notificationsEnabled && !errored && IsLinux)
                 {
                     Notification finishedNotification = new Notification();
                     finishedNotification.Summary = "Mp3 conversion finished.";
@@ -206,6 +206,24 @@ namespace Mp3ToWAV
             }
 
             RunningThreads--;
+        }
+
+		public static bool IsLinux
+        {
+            get
+            {
+                int p = (int)Environment.OSVersion.Platform;
+                return (p == 4) || (p == 128);
+            }
+        }
+        //test to see if running on mac
+        public static bool IsMac
+        {
+            get
+            {
+                int p = (int)Environment.OSVersion.Platform;
+                return (p == 6);
+            }
         }
     }
 }

@@ -23,3 +23,15 @@ c:/users/andym/onedrive/documents/visual studio 2017/Projects/Mp3ToWAV/Mp3ToWAV/
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/Program.cs
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/notify-sharp.dll
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/notify-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/dbus-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/dbus-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/gdk-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/gtk-dotnet.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/gtk-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/gtk-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/gtk-dotnet.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/gdk-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/glib-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/glib-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/atk-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Debug/atk-sharp.dll.config

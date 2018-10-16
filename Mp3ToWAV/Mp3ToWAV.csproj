@@ -57,15 +57,29 @@
     <Reference Include="WindowsBase" />
     <Reference Include="gtk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
       <Package>gtk-sharp-2.0</Package>
+      <Private>True</Private>
     </Reference>
     <Reference Include="gtk-dotnet, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
       <Package>gtk-dotnet-2.0</Package>
+      <Private>True</Private>
     </Reference>
     <Reference Include="gdk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
       <Package>gtk-sharp-2.0</Package>
+      <Private>True</Private>
     </Reference>
     <Reference Include="notify-sharp">
       <HintPath>..\..\..\..\..\..\usr\lib\cli\notify-sharp-0.4\notify-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="dbus-sharp">
+      <HintPath>..\..\..\..\..\..\usr\lib\cli\dbus-sharp-2.0\dbus-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="glib-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>glib-sharp-2.0</Package>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="atk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>gtk-sharp-2.0</Package>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>

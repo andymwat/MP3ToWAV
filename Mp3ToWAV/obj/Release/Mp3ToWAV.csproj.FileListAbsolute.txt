@@ -10,3 +10,15 @@
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/obj/Release/Mp3ToWAV.pdb
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/notify-sharp.dll
 /home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/notify-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/atk-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/dbus-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/gdk-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/glib-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/gtk-dotnet.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/gtk-sharp.dll
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/gtk-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/gtk-dotnet.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/gdk-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/dbus-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/glib-sharp.dll.config
+/home/andrew/Projects/mp3wavGit/MP3ToWAV/Mp3ToWAV/bin/Release/atk-sharp.dll.config

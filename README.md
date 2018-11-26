@@ -11,3 +11,4 @@ Open the solution in Visual Studio and build it. Adding the DLLs as references m
 
 ### Todo:
 * Add a progress bar of some sort.
+* More error handling.
